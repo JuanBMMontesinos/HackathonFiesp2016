@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">People Care</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_help">Me ajuda</string>
+    <string name="register">Cadastro</string>
+    <string name="profile">Perfil</string>
+    <string name="how_it_works">Como funciona</string>
+    <string name="our_mission">Nossa missão</string>
+    <string name="social_network">Mídias Sociais</string>
+    <string name="indicate">Indicar</string>
+    <string name="medias">Mídias</string>
+    <string name="img_logo_wecare">UpCare</string>
+    <string name="main_description">O melhor tratamento homecare para idosos se faz com profissionais qualificados</string>
+    <string name="company">A empresa</string>
+    <string name="wecare_logo">UpCare</string>
+    <string name="button_home">Home</string>
+    <string name="button_messages">Mensagens</string>
+    <string name="button_profile">Perfil</string>
+    <string name="search_professionals">Localizar profissionais</string>
+    <string name="upcare_online">UpCare.online</string>
+    <string name="new_user_form">Novo Usuário</string>
+
+    <string name="facebookUrl">https://www.facebook.com/Upcareonline-133185550470006</string>
+    <string name="fbGetNewUrl">fb://facewebmodal/f?href=</string>
+    <string name="fbUrl">fb://page/1667624047</string>
+
+    <string name="twitterApp">twitter://user?user_id=775369262353510405</string>
+    <string name="twitterWeb">https://twitter.com/upcareonline</string>
+
+    <string name="instagramApp">http://instagram.com/_u/upcareonline</string>
+    <string name="instagramWeb">https://www.instagram.com/upcareonline/</string>
+
+    <string name="facebookPackage">com.facebook.katana</string>
+    <string name="twitterPackage">com.twitter.android</string>
+    <string name="instagramPackage">com.instagram.android</string>
+    <string name="whatsappPackage">com.whatsapp</string>
+
+    <string name="upcare_home_care">UpCare HomeCare</string>
+    <string name="email_upcare">contato@upcare.online</string>
+
+    <string name="whatsapp_bodyText">Este é um texto padrão de envio do whatsapp</string>
+    <string name="email_bodyText">Este é um texto padrão de envio de e-mail</string>
+    <string name="email_subjectText">Assunto do Email</string>
+    <string name="email_sendError">Nenhum aplicativo de e-mail instalado</string>
+    <string name="email_sendMessage">Enviar E-mail...</string>
+    <string name="facebook_sendError">Facebook não instalado</string>
+
+    <string name="indicate1"><![CDATA[<h3 style="text-align: center"><b>Indicar</b></h3> </br> Indique nosso app a quem precisa de atendimento domiciliar e/ou a quem preste este tipo de serviço. </br> Ajude-nos a transformar a saúde brasileira!]]></string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_retype_password">Redigite Senha </string>
+    <string name="action_sign_in">Novo Usuário</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="action_create_user">Criar Usuário</string>
+    <string name="error_invalid_email">Este endereço de e-mail não é válido</string>
+    <string name="error_invalid_password">Esta senha é muito curta</string>
+    <string name="error_incorrect_password">A senha está incorreta</string>
+    <string name="error_not_match_password">As senhas estão diferentes</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="error_zipcode">CEP inválido!</string>
+    <string name="error_ddd">DDD inválido!</string>
+    <string name="error_date">Data inválida!</string>
+    <string name="error_phone">Número de telefone inválido!</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <!-- Strings related to Category Level 01 -->
+    <string name="selecione_a_categoria">Selecione a categoria:</string>
+    <string name="manter_conectado">Manter Conectado?</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="dependency_level_description">Grau de dependência</string>
+    <string name="dependency_level_item_0">Completamente Dependente</string>
+    <string name="dependency_level_0">Necessita de ajuda para todas as tarefas do dia-a-dia</string>
+    <string name="dependency_level_item_1">Semi-Dependente</string>
+    <string name="dependency_level_1">Necessita de ajuda para algumas tarefas do dia-a-dia</string>
+    <string name="dependency_level_item_2">Independente</string>
+    <string name="dependency_level_2">Consegue fazer todas as tarefas do dia-a-dia sem ajuda</string>
+    <string name="dummy_string">Dummy</string>
+    <string name="empty_string"></string>
+    <string name="questions_description">Questionário</string>
+    <string name="question_1">Mora Sozinho?</string>
+    <string name="question_2">Possui Diagnóstico?</string>
+    <string name="question_3">Já está fazendo tratamento?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="tutor_label">Responsável</string>
+    <string name="personal_data_label">Dados Pessoais</string>
+    <string name="patient_family">Paciente / Familiar</string>
+    <string name="name_hint">Nome</string>
+    <string name="full_address_hint">Endereço Completo</string>
+    <string name="degree_of_kinship">Grau de Parentesco</string>
+    <string name="complement_hint">Compl. Endereço</string>
+    <string name="male_label">Masculino</string>
+    <string name="female_label">Feminino</string>
+    <string name="birthday_hint">Data Nascimento</string>
+    <string name="ddd_hint">DDD</string>
+    <string name="cellphone_hint">Celular</string>
+    <string name="phone_hint">Telefone Fixo</string>
+    <string name="question_address_hint">O endereço do paciente é o mesmo do responsável?</string>
+    <string name="address_hint">Endereço</string>
+    <string name="address_number_hint">Número</string>
+    <string name="zipcode_hint">CEP</string>
+    <string name="city_hint">Cidade</string>
+    <string name="state_hint">Estado</string>
+    <string name="height_hint">Altura (m)</string>
+    <string name="weight_hint">Peso (Kg)</string>
+    <string name="languages_hint">Idiomas</string>
+    <string name="portuguese_label">Português</string>
+    <string name="spanish_label">Espanhol</string>
+    <string name="english_label">Inglês</string>
+    <string name="another_language_label">Outro Idioma</string>
+    <string name="save_register_label">Salvar Registro</string>
+    <string name="search_address_tutor">Pesquisar Endereço</string>
+    <string name="search_address_label">Pesquisar Endereço</string>
+    <string name="edit_address_label">Alterar Endereço</string>
+    <string name="place_details_simple">
+    <![CDATA[
+        <b>Endereço: </b>
+        <br/>%1$s<br/>
+    ]]>
+    </string>
+
+    <string name="place_details">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Local Id: %2$s</i>
+        <br/>
+        Endereço: %3$s
+        <br/>
+        Telefone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+</resources>

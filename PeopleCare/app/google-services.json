@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058122880284",
+    "firebase_url": "https://upcare-android-mobile-project.firebaseio.com",
+    "project_id": "upcare-android-mobile-project",
+    "storage_bucket": "upcare-android-mobile-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058122880284:android:6b29cbd906fde7f5",
+        "android_client_info": {
+          "package_name": "online.f4hupcaregroup.peoplecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058122880284-52dh9kge8uiedttrb71d1ilnlhblk6so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.f4hupcaregroup.peoplecare",
+            "certificate_hash": "90DA482574CC21581BA51E2F15280A6D051E311A"
+          }
+        },
+        {
+          "client_id": "1058122880284-qrsosm0p6rsp2jpnhn5prbaortnc3g1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQH6Zivd199Yl5BykMPMswxzEeJ8jwhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058122880284-qrsosm0p6rsp2jpnhn5prbaortnc3g1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

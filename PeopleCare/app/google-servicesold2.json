@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332022589514",
+    "firebase_url": "https://hackathon2016-7b427.firebaseio.com",
+    "project_id": "hackathon2016-7b427",
+    "storage_bucket": "hackathon2016-7b427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332022589514:android:a72d5f46604368ff",
+        "android_client_info": {
+          "package_name": "online.f4hupcaregroup.peoplecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332022589514-upk0gv9cbmplvo22k3crnkjqvlcmti5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSZVRKm-n3WzKwfB3YrhRcvL93RhTEpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
